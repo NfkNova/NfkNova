@@ -1,16 +1,16 @@
-### Hi there 👋
+![Carrera Espacial Banner de Canvas](https://user-images.githubusercontent.com/126041920/220518551-2a685294-2c56-46f2-af45-af598f230d82.png)
 
-<!--
-**NfkNova/NfkNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*ABOUT ME*
 
-Here are some ideas to get you started:
+Hi, i´m backend developer in Node.js. I have knowledge in multiple languages, I love to acquire new knowledge and I am willing to face new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Although I still have no experience, I have worked on multiple projects, mainly for the university and others that have not been projects but personal challenges to evaluate my knowledge and learn a little more.
+
+*Projects 🛸*
+
+.
+.
+.
+.
+
+*Stack ⚙*
