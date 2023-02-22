@@ -9,6 +9,7 @@ Although I still have no experience, I have worked on multiple projects, mainly 
 ## 🚀 Projects
 
 -[@Angular-CRUD](https://github.com/NfkNova/Angular-CRUD.git)
+
 -[@Minitec-Unity2D](https://github.com/NfkNova/Minitec.git)
 
 ## ⚙ Stack 
