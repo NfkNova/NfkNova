@@ -8,9 +8,4 @@ Although I still have no experience, I have worked on multiple projects, mainly 
 
 ## 🚀 Projects
 
-.
-.
-.
-.
-
 ## ⚙ Stack 
